@@ -9,3 +9,4 @@ This project is on Thingiverse and GitHub:
 # Credits
 * "kbricks construction system": https://www.thingiverse.com/thing:3574234
 * "Molle translator for merges, turns, and diagonal angle changes": https://www.thingiverse.com/thing:351866
+* "iPhone XS Harness with Interchangeable Parts": https://www.thingiverse.com/thing:3126528
