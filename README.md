@@ -2,6 +2,10 @@ One of the great things about 3D printing is that it allows you to bridge betwee
 
 This is a collection of adapters that uses the open source kbricks project (https://www.thingiverse.com/thing:3574234) as a backbone. It will (eventually) bridge between Command hooks, MOLLE systems, belt loops, and other systems.
 
+This project is on Thingiverse and GitHub:
+* https://www.thingiverse.com/thing:4287326
+* https://github.com/chrisoei/kbricks-adapters
+
 # Credits
 * "kbricks construction system": https://www.thingiverse.com/thing:3574234
 * "Molle translator for merges, turns, and diagonal angle changes": https://www.thingiverse.com/thing:351866
