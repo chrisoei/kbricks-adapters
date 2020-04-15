@@ -1,6 +1,6 @@
 include <kbricks_core.scad>
 
-src = "original_iPhone_XS_Harness_with_Interchangeable_Parts_stand_pt15.stl"
+src = "original_iPhone_XS_Harness_with_Interchangeable_Parts_stand_pt15.stl";
 
 union() {
   translate([-6, -10, 11])
