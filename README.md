@@ -10,3 +10,5 @@ This project is on Thingiverse and GitHub:
 * "kbricks construction system": https://www.thingiverse.com/thing:3574234
 * "Molle translator for merges, turns, and diagonal angle changes": https://www.thingiverse.com/thing:351866
 * "iPhone XS Harness with Interchangeable Parts": https://www.thingiverse.com/thing:3126528
+* "Customizable U-Hook": https://www.thingiverse.com/thing:1367661
+
