@@ -192,11 +192,7 @@ union() {
     
   translate([6, 108, 12])
   rotate ([0, 0, 90])
-  union() {
-    translate([-12, -12, -12])
-      cube([10, 24, 24]);
-    cube_basic(support=true);
-  }
+  cube_basic(support=true);
 }
 
 echo (TOTAL_SIZE_ON_Z_AXIS=thickness);
